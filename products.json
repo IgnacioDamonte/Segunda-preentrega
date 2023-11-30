@@ -1,0 +1,99 @@
+[{
+  "_id": {
+    "$oid": "6567dcf26780a0ff3f7ccfd6"
+  },
+  "id": 1,
+  "title": "Hamburguesa simple",
+  "description": "Hamburguesa de una carne",
+  "price": 20000,
+  "thumbnails": [
+    "-"
+  ],
+  "code": "555BB",
+  "stock": 16,
+  "status": true,
+  "category": "Comida"
+},
+{
+  "_id": {
+    "$oid": "6567dcf26780a0ff3f7ccfd7"
+  },
+  "id": 3,
+  "title": "Hamburguesa doble",
+  "description": "Hamburguesa con doble carne",
+  "price": 5000,
+  "thumbnails": [
+    "-\""
+  ],
+  "code": "555AA",
+  "stock": 10,
+  "status": true,
+  "category": "Comida"
+},
+{
+  "_id": {
+    "$oid": "6567dcf26780a0ff3f7ccfd8"
+  },
+  "id": 4,
+  "title": "Hamburguesa Triple ",
+  "description": "Hamburguesa con triple carne",
+  "price": 5000,
+  "thumbnails": [
+    "-",
+    "-"
+  ],
+  "code": "999PP",
+  "stock": 16,
+  "status": true,
+  "category": "Comida"
+},
+{
+  "_id": {
+    "$oid": "6567dcf26780a0ff3f7ccfd9"
+  },
+  "id": 5,
+  "title": " Hamburguesa Cuadruple",
+  "description": "Hamburguesa Con Cuatro carnes",
+  "price": 6000,
+  "thumbnails": [
+    "-",
+    "-"
+  ],
+  "code": "100PP",
+  "stock": 16,
+  "status": true,
+  "category": "Comida"
+},
+{
+  "_id": {
+    "$oid": "6567dcf26780a0ff3f7ccfda"
+  },
+  "id": 6,
+  "title": "Hamburguesa con cheddar",
+  "description": "Hamburguesa con queso cheddar",
+  "price": 4500,
+  "thumbnails": [
+    "-",
+    "-"
+  ],
+  "code": "AAAA9",
+  "stock": 16,
+  "status": true,
+  "category": "Comida"
+},
+{
+  "_id": {
+    "$oid": "6567dcf26780a0ff3f7ccfdb"
+  },
+  "id": 7,
+  "title": "Hamburguesa con doble cheddar",
+  "description": "Hamburguesa que tiene dos fetas de cheddar",
+  "price": 8000,
+  "thumbnails": [
+    "-"
+  ],
+  "code": "BBBB8",
+  "stock": 20,
+  "status": true,
+  "category": "Comida"
+}]
