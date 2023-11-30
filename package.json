@@ -2,7 +2,7 @@
   "name": "segunda-preentrega",
   "type": "module",
   "version": "1.0.0",
-  "description": "Entregable numero 3 servidor con express",
+  "description": "Segunda preentrega",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
